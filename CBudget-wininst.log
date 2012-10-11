@@ -1,0 +1,12 @@
+*** Installation started 2011/11/03 14:44 ***
+Source: C:\Users\Cary\Desktop\CBudgetP\dist\CBudget-1.0.win32.exe
+999 Root Key: HKEY_CURRENT_USER
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\CBudget-py2.7]DisplayName=Python 2.7 CBudget-1.0
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\CBudget-py2.7]UninstallString="D:\Python27\RemoveCBudget.exe" -u "D:\Python27\CBudget-wininst.log"
+200 File Copy: D:\Python27\Lib\site-packages\CBudget-1.0-py2.7.egg-info
+*** Installation started 2011/11/03 15:01 ***
+Source: C:\Users\Cary\Desktop\CBudgetP\dist\CBudget-1.0.win32.exe
+999 Root Key: HKEY_CURRENT_USER
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\CBudget-py2.7]DisplayName=Python 2.7 CBudget-1.0
+040 Reg DB Value: [Software\Microsoft\Windows\CurrentVersion\Uninstall\CBudget-py2.7]UninstallString="D:\Python27\RemoveCBudget.exe" -u "D:\Python27\CBudget-wininst.log"
+200 File Copy: D:\Python27\Lib\site-packages\CBudget-1.0-py2.7.egg-info
